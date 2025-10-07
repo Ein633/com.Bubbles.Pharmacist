@@ -71,8 +71,5 @@ Current config (values from `config/config.json`)
   - Example value: `[]` (empty)
   - A whitelist of item tpl ids used to detect item-type barter requirements. When empty, the mod treats non-currency barter entries as items by default (depending on `barterScaleMode`).
 
-Behavior notes and key details
-- Morphine is a special-case handled inside the code: even if its parent class would classify it differently, the mod forces it to use the stim multiplier to keep behavior consistent.
-
 Troubleshooting
 - If you don't see the mod's logs when SPT starts, confirm that `logItemsWithModifiedUses` is `true` in the config.
