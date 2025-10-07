@@ -1,0 +1,36 @@
+{
+    "logItemsWithModifiedUses": true,
+    "barterScaleMode": "both",
+    "changeCrafts": true,
+    "changeStims": true,
+    "changeMedkits": true,
+    "changeMedical": true,
+    "changeDrugs": true,
+    "infDrugs": false,
+    "infStims": false,
+    "infMedkits": false,
+    "infMedical": false,
+    "stimUsesMultiplier": 10,
+    "medkitHpMultiplier": 2,
+    "medicalUsesMultiplier": 2,
+    "drugUsesMultiplier": 2,
+    "blacklisted_stims": [
+        "648c1a965043c4052a4f8505"
+    ],
+    "blacklisted_medkits": [
+        "5755356824597772cb798962",
+        "5e99711486f7744bfc4af328",
+        "5e99735686f7744bfc4af32c"
+    ],
+    "blacklisted_medical": [],
+    "blacklisted_drugs": [],
+    "currencyTpls": [
+        "5449016a4bdc2d6f028b456f",
+        "569668774bdc2da2298b4568",
+        "5696686a4bdc2da3298b456a",
+        "59faff1d86f7746c51718c9c",
+        "5d235b4d86f7742e017bc88a"
+    ],
+    "itemTpls": [
+    ]
+}
